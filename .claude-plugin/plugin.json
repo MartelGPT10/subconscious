@@ -1,0 +1,12 @@
+{
+  "name": "subconscious",
+  "version": "1.0.0",
+  "description": "Executive intelligence layer for SSS \u2014 adversarial thinking, structured research, and external-facing document production for a sole founder operating at portfolio scale.",
+  "author": "Sanders Software Solutions",
+  "categories": ["Strategy", "Research", "Intelligence", "Founder"],
+  "skills": [
+    "skills/red-team",
+    "skills/due-diligence",
+    "skills/external-deliverables"
+  ]
+}
