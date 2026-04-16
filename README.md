@@ -15,8 +15,9 @@ Produces documents that leave Sanders Software Solutions and land in front of cl
 
 ## Installation
 
-```bash
-claude plugin install https://github.com/MartelGPT10/subconscious
+```
+/plugin marketplace add MartelGPT10/subconscious
+/plugin install subconscious
 ```
 
 ## Author
